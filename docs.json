@@ -12,14 +12,15 @@
     "tabs": [
       {
         "tab": "Guides",
-        "groups": [
+        "pages": [
           {
             "group": "Get Started",
             "pages": [
               "index",
               "quickstart",
               "development",
-              "folder/asdsd"
+              "folder/asdsd",
+              "folder/untitled-page"
             ]
           },
           {
@@ -32,7 +33,8 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
-          }
+          },
+          ""
         ]
       },
       {
