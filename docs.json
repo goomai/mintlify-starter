@@ -53,7 +53,8 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
-            ]
+            ],
+            "openapi": "https://documenter.getpostman.com/view/56922947/2sBY4Qu1P5"
           }
         ]
       }
