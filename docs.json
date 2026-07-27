@@ -48,7 +48,10 @@
           },
           {
             "group": "Endpoint Examples",
-            "openapi": "https://documenter.getpostman.com/view/56922947/2sBY4Qu1P5"
+            "openapi": "https://documenter.getpostman.com/view/56922947/2sBY4Qu1P5",
+            "pages": [
+              "untitled-page"
+            ]
           }
         ]
       }
