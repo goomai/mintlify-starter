@@ -35,6 +35,14 @@
             ]
           },
           ""
+        ],
+        "groups": [
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "untitled-page"
+            ]
+          }
         ]
       },
       {
@@ -43,13 +51,8 @@
           {
             "group": "API Documentation",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "untitled-page"
+              "asdads",
+              "api-reference/introductionaa"
             ]
           }
         ]
